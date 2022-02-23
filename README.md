@@ -18,6 +18,8 @@
   <br/><img align="right" alt="Janis-pic" height="130" style="border-radius:50px;"  src="https://i.pinimg.com/originals/bb/21/82/bb2182183b814a9ac4edc3aabb79cc3d.png?width=646&height=646 ">
 </div>
   
+ Apaixonada por tecnologia,reciprocidade e por mudar a vida das pessoas atráves de programação! 🥰💓 
+  
 ## Minhas Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-malkiewiez-958514133/)
 [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/janiscristina.malkiewiez/)
