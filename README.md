@@ -1,4 +1,4 @@
-## Oiii eu sou a Janis Malkiewiez, estudante de front-end! 🙋🏻‍♀️✨
+## Oii eu sou a Janis Malkiewiez, aluna de Ciência da Computação! 🙋🏻‍♀️✨
 ***
 <div align="center">
   <a href="https://github.com/janismalkiewiez">
