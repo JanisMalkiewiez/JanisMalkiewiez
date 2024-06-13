@@ -17,9 +17,9 @@
 </div>
   
  ***
-## Apaixonada por tecnologia, reciprocidade e por mudar a vida das pessoas atráves de programação! 🥰💓 
+## Apaixonada por tecnologia, meu objetivo é mudar a vida das pessoas atráves de programação! 🥰💓 
   
 ## Minhas Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-malkiewiez-958514133/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-malkiewiez-0a6666311/)
 [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/janiscristina.malkiewiez/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](janismalkiewiez15@hotmail.com)
