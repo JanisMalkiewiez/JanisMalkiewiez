@@ -17,7 +17,9 @@
 </div>
   
  ***
-## Apaixonada por tecnologia, meu objetivo é aprender cada vez mais sobre a área de dados, e com os meus conhecimentos adquiridos conquistar a minha primeira vaga como Engenheira/Analista de dados. E como propósito mudar a vida das pessoas através da programação! 🥰💓 
+## Apaixonada por tecnologia, meu objetivo é aprender cada vez mais sobre a área de dados, 
+e com os meus conhecimentos adquiridos conquistar a minha primeira vaga como Engenheira/Analista de dados. 
+E com propósito mudar a vida das pessoas através da programação! 🥰💓 
   
 ## Minhas Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janis-malkiewiez-0a6666311/)
