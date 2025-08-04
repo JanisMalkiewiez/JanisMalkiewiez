@@ -17,7 +17,9 @@
   <a href="https://github.com/janismalkiewiez">
 </div>
 
-### Apaixonada por tecnologia, meu objetivo é aprender cada vez mais sobre a área de dados, e com os meus conhecimentos adquiridos conquistar a minha primeira vaga como Engenheira/Analista de dados.
+### Apaixonada por tecnologia, estou constantemente buscando evoluir na área de dados. Já adquiri conhecimentos sólidos em Excel, SQL e Power BI, e meu objetivo é conquistar a minha primeira oportunidade como Estagiária Analista de Dados aplicando essas habilidades na prática.
+
+
 ### E com visão de mudar a vida das pessoas através da programação! 🥰💓 
 
 
