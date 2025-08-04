@@ -20,7 +20,7 @@
 ### Apaixonada por tecnologia, estou constantemente buscando evoluir na área de dados. Já adquiri conhecimentos sólidos em Excel, SQL e Power BI, e meu objetivo é conquistar a minha primeira oportunidade como Estagiária Analista de Dados aplicando essas habilidades na prática.
 
 
-### E com visão de mudar a vida das pessoas através da programação! 🥰💓 
+### E com visão de mudar a vida das pessoas através do mundo de Dados! 🥰💓 
 
 
 
