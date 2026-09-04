@@ -10,17 +10,24 @@
   <a href="https://github.com/janismalkiewiez">
 </div>
     
-## Aluna de Ciência da Computação! 🙋🏻‍♀️✨
+## Estudante de Ciência da Computação! 🙋🏻‍♀️✨
 
 
 <div align="center">
   <a href="https://github.com/janismalkiewiez">
 </div>
 
-### Apaixonada por tecnologia, estou constantemente buscando evoluir na área de dados. Já adquiri conhecimentos sólidos em Excel, SQL e Power BI, e meu objetivo é conquistar a minha primeira oportunidade como Estagiária Analista de Dados aplicando essas habilidades na prática.
+### Sobre mim 👩‍💻
+
+Apaixonada por tecnologia e movida pela curiosidade de aprender cada vez mais, estou constantemente buscando evoluir na área de desenvolvimento e automação.
+
+Atualmente, venho desenvolvendo meus conhecimentos em Python, APIs, automação, inteligência artificial e desenvolvimento web, além de fortalecer minha base em lógica de programação, SQL e Git/GitHub.
+
+Meu objetivo é transformar conhecimento em soluções práticas, criar projetos que resolvam problemas reais e, através da tecnologia, contribuir para tornar a vida das pessoas mais simples e eficiente. 🥰💓
 
 
-### E com visão de mudar a vida das pessoas através do mundo de Dados! 🥰💓 
+### 🚀 Em constante aprendizado, sempre buscando evoluir um pouco mais a cada projeto.
+ 
 
 
 
